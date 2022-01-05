@@ -5,7 +5,7 @@ Python program to separate audio signal into harmonic and percussive components.
 # Prerequisites
 - Python3 installed
   - The program was developed and tested in python version 3.8.5, with Spyder (anaconda3) IDE.
-- Needed libraries installed.
+- Needed libraries installed:
   - numpy
   - matplotlib.pyplot
   - librosa
